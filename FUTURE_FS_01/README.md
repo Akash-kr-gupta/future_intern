@@ -1,16 +1,65 @@
-# React + Vite
+# 🌐 FUTURE_FS_01 - Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive **Personal Portfolio Website** built using **React.js + Vite** as part of the **Future Intern Full Stack Web Development Internship**.
 
-Currently, two official plugins are available:
+This portfolio highlights my **skills, projects, certifications, experience, activities, and contact details** in a clean and professional UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Live Demo
+🔗 Add your Vercel deployment link here
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Example:
+https://your-portfolio.vercel.app
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+
+- ✅ Modern responsive UI
+- ✅ Hero landing section
+- ✅ Skills showcase
+- ✅ Projects section
+- ✅ Experience timeline
+- ✅ Certifications section
+- ✅ Activities / achievements
+- ✅ Contact section
+- ✅ Footer with social links
+- ✅ Fast performance using Vite
+- ✅ Reusable React components
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Vite**
+- **JavaScript**
+- **CSS3**
+- **HTML5**
+- **Responsive Design**
+
+---
+
+## 📂 Project Structure
+
+```bash
+FUTURE_FS_01
+│── public
+│── src
+│   ├── assets
+│   ├── components
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Certifications.jsx
+│   │   ├── Activities.jsx
+│   │   ├── Contact.jsx
+│   │   └── Footer.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│── package.json
+│── vite.config.js
