@@ -10,7 +10,7 @@ This portfolio highlights my **skills, projects, certifications, experience, act
 🔗 Add your Vercel deployment link here
 
 Example:
-https://your-portfolio.vercel.app
+(https://future-intern-eta.vercel.app/)
 
 ---
 
