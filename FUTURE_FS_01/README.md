@@ -7,10 +7,7 @@ This portfolio highlights my **skills, projects, certifications, experience, act
 ---
 
 ## 🚀 Live Demo
-🔗 Add your Vercel deployment link here
-
-Example:
-(https://future-intern-eta.vercel.app/)
+🔗 https://future-intern-eta.vercel.app/
 
 ---
 
