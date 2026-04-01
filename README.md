@@ -2,7 +2,7 @@
 
 ## ✅ Completed Tasks
 ### 🌐 FUTURE_FS_01 - Portfolio Website
-Live: your-task1-link
+Live: https://future-intern-eta.vercel.app/
 
 ### 🧾 FUTURE_FS_02 - Mini CRM
 Live: your-task2-link
