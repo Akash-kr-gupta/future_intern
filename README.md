@@ -1,42 +1,14 @@
-# Mini CRM
+# 🚀 Future Intern - Full Stack Web Development Internship
 
-A simple CRM application with Node.js backend and React frontend.
+## ✅ Completed Tasks
+### 🌐 FUTURE_FS_01 - Portfolio Website
+Live: https://future-intern-eta.vercel.app/
 
-## Setup
+### 🧾 FUTURE_FS_02 - Mini CRM
+Live: your-task2-link
 
-1. Install dependencies for backend:
+### 🍽️ FUTURE_FS_03 - Aangan Restaurant Website
+Live: https://future-intern-nxsl.vercel.app/
 
-   ```
-   cd backend
-   npm install
-   ```
-
-2. Install dependencies for frontend:
-
-   ```
-   cd frontend
-   npm install
-   ```
-
-3. Start MongoDB (make sure it's running on localhost:27017)
-
-4. Start the backend:
-
-   ```
-   cd backend
-   npm start
-   ```
-
-5. Start the frontend:
-
-   ```
-   cd frontend
-   npm start
-   ```
-
-6. Open http://localhost:3000 in your browser
-
-## Default Login
-
-- Username: admin
-- Password: admin123
+## 🛠️ Tech Stack
+React, Vite, JavaScript, Node.js, MongoDB, CSS
